@@ -3,6 +3,10 @@
 
 This project presents a comprehensive interactive dashboard and data analysis of the 2020–21 English Premier League season. Built using Tableau, SQL, and Excel, the dashboard enables intuitive exploration of player and team statistics to derive performance insights for fans, analysts, and decision-makers.
 
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+
 ## Project Overview
 
 The EPL Performance Dashboard provides interactive visualizations that showcase:
@@ -76,3 +80,7 @@ The dashboard includes visuals like:
 - Horizontal bar charts for goals and assists
 - Club-wise goal contributions
 - Positional analysis of top performers
+
+## 👤 Author
+**Ritvik Shetty**
+[LinkedIn](https://www.linkedin.com/in/ritvikshetty23/) · [GitHub](https://github.com/RitvikShetty17)
